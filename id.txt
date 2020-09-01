@@ -1,0 +1,4 @@
+strapi: Monday Hazard
+pw: Strapi2020
+
+https://www.youtube.com/watch?v=EBDRykdHEFc
