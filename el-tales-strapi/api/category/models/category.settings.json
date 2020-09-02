@@ -15,6 +15,9 @@
     "articles": {
       "collection": "article",
       "via": "category"
+    },
+    "name": {
+      "type": "string"
     }
   }
 }
